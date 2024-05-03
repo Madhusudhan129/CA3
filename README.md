@@ -1,7 +1,10 @@
 # CA3
 Explore LFI vulnerabilities via a Flask app, and Engage with an LFI-prone Flask site and validate web apps for LFI susceptibility using a Tkinter-driven scanner.
+
+# Steps to do:-
+
 Install Required Libraries: Use pip, the Python package installer, to install the necessary libraries. 
-Open the terminal and run the code "pip install Flask requests"
+Open the terminal and run the code "pip install Flask requests".
 After installing the packages create the two folders for scanning the url and another targetting the url.
 Once running the scanning code it will display one port url then we need to open in browser.
 After that we need to run the another code then it will display like LFI vulnerabilities checker using GUI.
