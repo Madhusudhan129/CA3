@@ -8,6 +8,6 @@ After that we need to run the another code then it will display like LFI vulnera
 Then we need to paste the target URL "http://127.0.0.1:5000/".
 Then it will found the LFI vulnerabilities of targeted URL.
 
-OUTPUT:
+# OUTPUT:
 
 This is the image of final output of the tool:![75e6a974-cc56-4856-b2ea-c3590b488ce3](https://github.com/Madhusudhan129/CA3/assets/122853709/268f69c7-4b66-4d29-b002-8216f022e687)
