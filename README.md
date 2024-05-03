@@ -2,11 +2,11 @@
 
 Explore LFI vulnerabilities via a Flask app, and Engage with an LFI-prone Flask site and validate web apps for LFI susceptibility using a Tkinter-driven scanner.
 
-#Features
+# Features
 
 This tool features a vulnerable Flask web application for LFI demonstration and a Tkinter GUI for user-friendly LFI vulnerability testing.
 
-#Technologies used for creating the tool
+# Technologies used for creating the tool
 
 This tool is built with Python, utilizing Flask for the vulnerable web application, Tkinter for the GUI vulnerability checker, and Requests for HTTP communication.
 
